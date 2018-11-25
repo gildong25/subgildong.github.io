@@ -1,7 +1,7 @@
 # Site settings
 title: 서브길동
 description: "길동이 블로그 두번째"
-baseurl: "/gildong25.github.io/" # for test: remove string '/space-jekyll-template' to ''
+baseurl: "/" # for test: remove string '/space-jekyll-template' to ''
 url: "https://gildong25.github.io/subgildong.github.io/" # for test: remove string 'http://victorvoid.github.io' to '' but in production: 'https://yourusername.githu.io'
 
 # User settings
