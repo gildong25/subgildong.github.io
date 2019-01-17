@@ -7,11 +7,9 @@ url: "https://gildong25.github.io/subgildong.github.io/" # for test: remove stri
 # User settings
 username: 길동이
 user_title: 길동프로그래머
-email: lorem.lorem@ipsum.com
-twitter_username: loremipsum
-github_username:  loremipsum
-gplus_username:  loremipsum
-linkedin_public_url: loremipsum # Example: For public profile 'www.linkedin.com/in/john-smith', 'john-smith' is your linkedin_public_url
+email: gildong2525@gmail.com
+github_username:  gildong2525
+g-analytics: UA-132672113-1
 disqus_username: loremipsum
 profile_picture: https://68.media.tumblr.com/93f384858e9273d5b980b418e2f2f4d5/tumblr_o5i2aybLJG1uapsfmo2_250.png
 
@@ -47,12 +45,9 @@ links:
       key_trigger: 5
   section_2:
     - title: github
-      url: http://www.github.com/victorvoid
+      url: http://www.github.com/gildong2525
       new_tab: true
       key_trigger: g
-    - title: twitter
-      url: http://www.twitter.com/victorvoid
-      key_trigger: t
     - title: search
       url: ""
       key_trigger: s #WARNING: search only works with "s"
@@ -60,11 +55,11 @@ links:
 # projects in header index
 projects:
   - name: fluany
-    url: https://github.com/fluany/fluany
+    url: https://github.com/
   - name: vim-frontend
-    url: https://github.com/victorvoid/vim-frontend
+    url: https://github.com/
   - name: generator-capybara
-    url: https://github.com/victorvoid/generator-capybara 
+    url: https://github.com/
 
 # exclude my node related stuff
 exclude: ['package.json', 'src', 'node_modules']
